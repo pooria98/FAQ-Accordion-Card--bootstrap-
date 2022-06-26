@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/faq-accordion-card-bootstrap-QoppWhSyJR)
-- Live Site URL: [Add live site URL here](https://pooria98.github.io/FAQ-Accordion-Card--bootstrap-/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/faq-accordion-card-bootstrap-QoppWhSyJR)
+- Live Site URL: [Live Site](https://pooria98.github.io/FAQ-Accordion-Card--bootstrap-/)
 
 ### Built with
 
